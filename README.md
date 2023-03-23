@@ -1,3 +1,4 @@
 # Algorithm
 演算法分析
-合併分支一直跑error索性不合了
+作業系統: win11
+環境: Visual Studio Code
